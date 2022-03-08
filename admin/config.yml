@@ -1,9 +1,11 @@
 backend:
   name: git-gateway
+
 media_folder: 'assets/uploads'
+
 collections:
-  - name: 'guides'
-    label: 'Guides'
+  - name: 'guide'
+    label: 'Guide'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
