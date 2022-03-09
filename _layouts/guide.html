@@ -12,7 +12,28 @@
   {% include header.html %}
   <main>
     {% include cover.html %}
-    {{ content }}
+    {% for section in page.sections %}
+      <section id="{{ section.heading }}" name="{{ section.heading }}">
+        <h2>{{ section.heading }}</h2>
+        {% if section.body %}
+          {{ section.body | markdownify }}
+        {% endif %}
+
+        {% if section.imageSteps %}
+          <div class="contentImageStepsContainer">
+            {% for imageStep in section.imageSteps %}
+              <div class="contentImageSteps">
+                <img src="{{ imageStep.image }}" alt="Handrail" />
+                <div>
+                  <h3>{{ imageStep.heading }}</h3>
+                  <p>{{ imageStep.paragraph }}</p>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </section>
+    {% endfor %}
     {% include branches.html %}
   </main>
   {% include footer.html %}

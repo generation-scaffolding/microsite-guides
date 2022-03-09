@@ -1,4 +1,4 @@
-window.onLoad(() => {
+window.onload = () => {
   document.getElementById('main-nav').addEventListener('click', function() {
     document.getElementById('main-menu-box').checked = false;
   });
@@ -27,4 +27,4 @@ window.onLoad(() => {
       }
     });
   }
-});
+};
