@@ -1,6 +1,7 @@
 ---
 layout: guide
 title: Manhole Boxes
+coverImage: /assets/images/uploads/manhole-cover.png
 sections:
   - heading: Introduction
     body: "Health and safety legislation states that construction equipment users
