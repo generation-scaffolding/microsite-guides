@@ -1,9 +1,10 @@
 backend:
   name: git-gateway
-  branch: main
+
 media_folder: 'assets/uploads'
+
 collections:
-  - name: 'guides'
+  - name: 'guide'
     label: 'Guide'
     folder: '_posts/'
     create: true
@@ -11,7 +12,6 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'guide' }
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
