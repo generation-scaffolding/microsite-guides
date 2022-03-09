@@ -79,7 +79,7 @@ sections:
           constructed Manhole Box from flat to upright.
         heading: "6."
         image: /assets/images/uploads/manhole-assembly-006.png
-    body: a
+    body: ""
   - heading: Install
     imageSteps:
       - heading: "1."
@@ -99,7 +99,7 @@ sections:
           declared.
         heading: "5."
         image: /assets/images/uploads/manhole-install-005.png
-    body: a
+    body: ""
   - heading: Adding a Top Box
     body: "1) Fit the panel connectors to the top box\r
 
