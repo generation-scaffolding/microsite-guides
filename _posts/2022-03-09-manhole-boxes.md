@@ -88,17 +88,13 @@ sections:
           edge protection and ladder access. Enter excavation once safety is
           declared.
   - heading: Adding a Top Box
-    body: "1) Fit the panel connectors to the top box\r
-
-      2) Lift the box so these panel connectors hang down\r
-
-      3) Locate the panel connectors in the top of the panel\r
-
-      4) Then pin through connectors and panel\r
-
-      5) Secure with these with ‘R’ Clips\r
-
-      6) Repeat stage 4 and 5 until required depth"
+    body: |-
+      1. Fit the panel connectors to the top box
+      2. Lift the box so these panel connectors hang down
+      3. Locate the panel connectors in the top of the panel
+      4. Then pin through connectors and panel
+      5. Secure with these with ‘R’ Clips
+      6. Repeat stage 4 and 5 until required depth
   - heading: Extraction
     body: >-
       Extraction is the reverse of installation. Ensure that the trench is
