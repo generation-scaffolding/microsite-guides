@@ -204,4 +204,265 @@ sections:
 
 
       The quantities on within the 1450 Width Tower Quantity Schedule will enable BoSS towers to be built safely and therefore comply with the requirements of the Work at Height Regulations. They include double guardrails to all platforms. Toeboards will need to be added if any levels are used as working platforms and for storage of materials. EN 1004 requires platforms at least every 4.2m, and these measures will exceed that requirement.
+  - heading: "Ballast : Internal / External Use"
+    body: There is no requirement for ballast on 1450 towers if using stabilisers as
+      detailed in the table in the 1450 Width Towers Quantity Schedule.
+  - heading: Mobile Outriggers
+    body: >-
+      MP16 outriggers can be used instead of SP15 stabilisers, as detailed
+      below. Mobile outrigger kits comprise of:
+
+
+      <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mobile Outrigger Kit</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">MP 16 Mobile Outrigger</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">125/150/20mm Castor <br>(Use Same Diameter castors as on tower)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">250mm Adjustable Leg</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Plan Braces</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The above components replace: SP15 Stabiliser</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr></tbody></table>
+  - heading: Stabilisers
+    body: >-
+      To improve rigidity, larger stabilisers can be used at a lower level than
+      shown in the table within the 1450 width towers quantity schedule.
+
+
+      **Angle Of Stabiliser 1450 Tower**
+
+
+      ![](angle-of-stabiliser.png "Angle Of Stabiliser 1450 Tower")
+  - heading: Double Width 1450 Tower Dimension X
+    body: <table style="border-collapse:collapse;border-spacing:0"
+      class="tg"><thead><tr><th
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal"></th><th
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">Platform Length
+      1.8m</th><th
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">Platform Length
+      2.5m</th></tr></thead><tbody><tr><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">SP7</td><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X = 3351</td><td
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X =
+      3629</td></tr><tr><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">SP10</td><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X = 4789</td><td
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X =
+      5100</td></tr><tr><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">SP15</td><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X = 5520</td><td
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X =
+      5838</td></tr></tbody></table>
+  - heading: Quantity Schedule - 850 Width Towers
+    body: >-
+      BoSS Clima 850 to EN 1004: Available in 2 lengths - 1.8m and 2.5m
+
+      Internal/External Use - Towers under 2.5m are outside of the scope of EN 1004
+
+
+      ![](850-table-1.png)
+
+
+      IMPORTANT: Please ensure you also read the Quantity Schedule below.
+
+
+      * If you are unable to position the working platform easily from the ground, you may require an additional fixed platform for this tower height.
+
+
+      BoSS Clima 850 to EN 1004: Available in 2 lengths - 1.8m and 2.5m
+
+      Internal/External Use - Towers under 2.5m are outside of the scope of EN 1004
+
+
+      ![](850-table-2.png)
+  - heading: Number Of Working Platforms Allowed
+    body: >-
+      The maximum safe working load (the combined weight of the users, tools and
+      materials) that may
+
+      be placed on the tower is the total weight less than the self weight of the tower. The total weight
+
+      for the towers shown in the schedule is 950kg.
+
+
+      **Example 1:**
+
+      A 850 tower built using the 3T method with a 4.2m platform height and a platform length of 1.8m
+
+      has a self weight of 151kg
+
+
+      950kg - 151kg = 799kg maximum safe working load total weight self weight (users, tools and materials)
+
+
+      **Example 2**
+
+      A 850 tower built using the 3T method with a 11.7m platform height and a platform length of 2.5m has a self weight of 408kg.
+
+
+
+      950kg - 408kg = 542kg maximum safe working load total weight self weight (users, tools and materials)
+
+
+
+      For greater heights and loads, consult Youngman for guidance.
+  - heading: Platform Loading
+    body: >-
+      On an 850, tower a platform comprises of a single deck only. The maximum
+      safe working load (the
+
+      combined weight of the users, tools and materials) that may be placed on a platform is 275kg, evenly distributed over the deck.
+
+
+
+      The quantities on pages 13 and 14, will enable BoSS towers to be built safely and therefore comply with the requirements of the Work at Height Regulations 2005. They include double guardrails to all platforms, and toeboards will need to be added if any levels are used as working platforms and for storage of materials.
+
+
+
+      EN 1004 requires platforms at least every 4.2m, and these measures will exceed that requirement.
+  - heading: "Ballast : Internal / External Use"
+    body: There is no requirement for ballast on 850 towers if using stabilisers as
+      detailed in the table in the 850 quantity schedule.
+  - heading: Mobile Outriggers
+    body: >-
+      MP16 outriggers can be used instead of SP15 stabilisers, as detailed
+      below. Mobile outrigger kits
+
+      comprise of:
+
+
+      <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Mobile Outrigger Kit</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">MP 16 Mobile Outrigger</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">125/150/20mm Castor (Use same diaeter castors as on tower)</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">250mm Adjustable Leg</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Plan Braces</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">The above components replace: SP15 Stabiliser</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4</td></tr></tbody></table>
+  - heading: Stabilisers
+    body: >-
+      To improve rigidity, larger stabilisers can be used at a lower level than
+      shown in the quantity schedule.
+
+
+      **Angle Of Stabiliser 850 Tower**
+
+
+      ![](angle-of-stabiliser.png)
+  - heading: Single Width 850 Tower Dimension X
+    body: <table style="border-collapse:collapse;border-spacing:0"
+      class="tg"><thead><tr><th
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal"></th><th
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">Platform Length
+      1.8m</th><th
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">Platform Length
+      2.5m</th></tr></thead><tbody><tr><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">SP7</td><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X = 2994</td><td
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X =
+      3201</td></tr><tr><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">SP10</td><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X = 4458</td><td
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X =
+      4734</td></tr><tr><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">SP15</td><td
+      style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X = 5195</td><td
+      style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
+      sans-serif;font-size:14px;overflow:hidden;padding:10px
+      5px;text-align:left;vertical-align:top;word-break:normal">X =
+      5485</td></tr></tbody></table>
+  - heading: Assembly Procedure - Mobile Towers - 3T Method
+  - heading: Assembly and Dismantling Procedures
+    body: >-
+      * To comply with the Work at Height Regulations we show assembly
+      procedures with platforms
+        every 2 metres in height, and, the locating of guardrails in advance of climbing onto a platform to
+        reduce the risk of a fall.
+      * All platforms feature double guardrails on both faces of either individual platforms or fully
+        decked levels.
+      * All guardrails should be 2 and 4 rungs (0.5m and 1.0m) above platforms.
+
+      * Never stand on an unguarded platform positioned above the first rung of a tower. If your risk
+        assessment shows it necessary, you may also need to guardrail platforms at this level.
+      * Always start building with the smallest height frames at the base of the tower:
+
+
+      <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Platform Height In Metres</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Frame At Base</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.7, 2.2, 3.7, 4.2, 5.7, 6.2, 7.7, 8.2, 9.7, 10.2, 11.7, 12.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2 rung</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.7, 4.7, 6.7, 8.7, 10.7</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3 rung</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.2, 3.2, 5.2, 7.2, 9.2, 11.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 rung</td></tr></tbody></table>
+
+
+      Where all 3 frame heights are used in a tower, start with 4 rung frames at the base, with the 6 rung frames next and the 8 rung frames on the top. Refer to the quantity schedules for detail.
+  - heading: To Dismantle A BoSS Ladderspan Tower
+    body: >-
+      * Remove toeboards, and pass down the tower.
+
+      * Unclip farthest end of braces and immediately go to protected trapdoor position on ladder to
+        complete removal.
+      * Remove upper platforms from protected platform levels below.
+
+      * Pass removed components out of the tower to a colleague.
+  - heading: Checklist
+    body: >-
+      * Ensure all brace claws operate and lock correctly prior to erection
+
+      * Inspect components prior to erection
+
+      * Inspect tower prior to use
+
+      * Tower upright and level
+
+      * Castors locked and legs correctly adjusted
+
+      * Diagonal braces fitted
+
+      * Stabilisers/outriggers fitted as specified
+
+      * Platforms located and windlocks on
+
+      * Toeboards located
+
+      * Check guardrails are fitted correctly. See illustration below.
+
+
+      \|![](1.jpg) | ![](2.jpg) | ![](3.jpg)
+
+
+
+
+      Ensure horizontal braces and guardrails are fitted correctly. Always fit as shown.
+
+
+
+      Refer to this checklist before using each time.
+  - heading: Assembly Procedure - Mobile Towers 1450 3T Method
+  - heading: Assembly for 1450 Towers
 ---
