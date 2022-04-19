@@ -465,4 +465,163 @@ sections:
       Refer to this checklist before using each time.
   - heading: Assembly Procedure - Mobile Towers 1450 3T Method
   - heading: Assembly for 1450 Towers
+    body: >-
+      **Always start building with the smallest height frames at the base of the
+      tower:**
+
+
+      <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Platform Height In Metres</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Frame At Base</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.7, 2.2, 3.7, 4.2, 5.7, 6.2, 7.7, 8.2, 9.7, 10.2, 11.7, 12.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2 rung</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.7, 4.7, 6.7, 8.7, 10.7</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">3 rung</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.2, 3.2, 5.2, 7.2, 9.2, 11.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 rung</td></tr></tbody></table>
+
+
+
+
+      Where all 3 frame heights are used in a tower, start with 4 rung frames at the base, with the 6 rung frames next and the 8 rung frames on the top. Refer to the Quantity Schedules for detail. **The procedure illustrated shows 4.2m platform height tower starting with a 4 rung frame.**
+
+
+
+
+      **BoSS recommend two persons are used to build BoSS Towers. Above 4m height, it is essential
+
+      that at least two persons are used. Only climb the tower from the inside.**
+    imageSteps:
+      - image: 1450-assembly-1.jpg
+        heading: "1:"
+        paragraph: >-
+          Push 4 castors onto 4 adjustable legs. Insert adjustable legs into 2
+          end frames as shown. Lock
+
+          castor brakes. Base plates can be fitted to adjustable legs if it is not necessary to move the tower.
+      - heading: "2:"
+        paragraph: >-
+          Fit one horizontal brace (red) onto the vertical of an end frame, just
+          above the bottom rung, with the claw facing outwards.
+
+
+          Note: All locking claws must be opening before fitting.
+        image: 1450-assembly-2.jpg
+      - paragraph: >-
+          Position the second end frame as shown and fit the other end of the
+          horizontal brace onto the
+
+          vertical, just above the bottom rung. Fit a second horizontal brace between the bottom rungs on the other side of the frames to square the tower.
+        heading: "3:"
+        image: 1450-assembly-3.jpg
+      - heading: "4:"
+        paragraph: >-
+          Fit 2 additional end frames and check that the frame interlock clips
+          are engaged. Fit 2 diagonal
+
+          braces (blue) in opposing directions between the 2nd and the 6th rungs. Ensure the frames are
+
+          vertical and level by checking with a spirit level and setting the adjustable legs as required.
+
+
+          IMPORTANT - Only use the adjustable legs to level the tower and not to gain extra height.
+        image: 1450-assembly-4.jpg
+      - heading: Fit Stabilisers
+        image: 1450-assembly-4.5.jpg
+      - image: 1450-assembly-5.jpg
+        heading: "5:"
+        paragraph: >-
+          Fit a temporary deck on the lowest rungs. Fit a trapdoor deck on the
+          8th rung (2.0m) on
+
+          one side of the tower. Ensure that the trapdoor is positioned with the hinges towards
+
+          the outside of the tower as shown. Climb the end frame below the trapdoor on the inside
+
+          of the tower, and from within the protected trapdoor position, fit horizontal braces on
+
+          the 10th and 12th rungs (in that order) on both sides of the deck.
+
+
+          Do not climb onto the deck until it is fully guardrailed.
+
+
+          When horizontal braces are fitted as guardrails, they should be 0.5m and 1.0m (2 and 4
+
+          rungs) above the deck level. Remove the temporary deck from the lowest rung.
+      - image: 1450-assembly-6.jpg
+        paragraph: Fit the next pair of diagonal braces in opposing directions between
+          the 6th and 10th rungs add 2 additional end frames.
+        heading: "6:"
+      - heading: "7:"
+        image: 1450-assembly-7.jpg
+        paragraph: >-
+          Add two more diagonal braces between the 10th and 14th rungs. If
+          finishing at this
+
+          height (4.2m platform), the fixed deck should be repositioned to the 16th rung on the
+
+          opposite side of the tower to the trapdoor deck. Fit a trapdoor deck alongside it with
+
+          the hinges towards the outside of the tower and the trapdoor in line with the one below.
+
+          Climb the tower and from the protected trapdoor position, fit the horizontal braces
+
+          as guardrails on both sides at 2 and 4 rungs (0.5 and 1.0m) above the platform level. At
+
+          the final level, a further diagonal braces should be added on one side of the tower
+
+          as shown.
+      - image: 1450-assembly-8.jpg
+        heading: "8:"
+        paragraph: >-
+          Continue to add pairs of end frames, diagonal braces and fit trapdoor
+          decks as shown in the
+
+          previous steps. At every platform level, add horizontal braces as guardrails at 2 and 4 rungs above the platform.
+
+
+          Fit these guardrail braces from the protected trapdoor position. Do not climb onto the platform until it is fully guardrailed.
+
+
+          Continue until the required height is reached. Re-position the fixed deck to the required platform height and fit a trapdoor deck alongside it as shown in Stage 7. Fir a single diagonal at the top of the tower as shown in Stage 7. Fit the guardrails as shown in Stage 7.
+      - heading: "9:"
+        image: 1450-asssembly-9.jpg
+        paragraph: Fit toeboards. The tower is now complete.
+  - heading: Dismantling Procedure
+    body: >-
+      To take down the tower, reverse the building sequence. When removing
+      guardrail braces, unlock
+
+      the claws furthest from the trapdoor and then return immediately to the protected position within
+
+      the trapdoor. You may then unlock the claws at the other ends of the Guardrails to remove them
+
+      from the tower.
+
+
+      ![](dismantling-procedure.jpg)
+  - heading: Assembly Procedure - Mobile Towers 850 3T Method
+  - heading: Assembly for 850 Towers
+    body: >-
+      Always start building with the smallest height frames at the base of the
+      tower:
+
+
+      <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Platform Height In Metres</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Frame At Base</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.7, 2.2, 3.7, 4.2, 5.7, 6.2, 7.7, 8.2, 9.7, 10.2, 11.7, 12.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">4 rung</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">2.7, 4.7, 6.7, 8.7, 10.7</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6 rung</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.2, 3.2, 5.2, 7.2, 9.2, 11.2</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">8 rung</td></tr></tbody></table>
+
+
+
+
+      Where all 3 Heights are used in a tower, start with 4 rung frames at the base, with the 6 rung frames next and the 8 rung frames on top. Refer to the quantity schedules for detail.
+
+
+
+      **The procedure illustrated shows a tower starting with an 8 rung frame.**
+    imageSteps:
+      - heading: "1: "
+        paragraph: Insert adjustable leg/castor assemblies into end frames and lock the
+          castors. Base plates can be fitted to the adjustable legs if it is not
+          necessary to move the tower. Fit 2 horizontal braces to the 850 end
+          frames as shown in steps 2 and 3 for the 1450 tower procedure. Ensure
+          that the frames are vertical and level by checking with a spirit level
+          and setting the adjustable legs required.
+        image: 1450-assembly-1.jpg
+      - heading: "2:"
+        paragraph: Fit a trapdoor deck on the 4th rung. Fix the horizontal braces (red)
+          as guardrails on the 6th and 8th rungs (2 and 4 rungs above the
+          platform) on both sides of the tower.
+        image: 850-assembly-2.jpg
 ---
