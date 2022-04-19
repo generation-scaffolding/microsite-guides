@@ -624,4 +624,77 @@ sections:
           as guardrails on the 6th and 8th rungs (2 and 4 rungs above the
           platform) on both sides of the tower.
         image: 850-assembly-2.jpg
+      - image: 850-assembly-3.jpg
+        heading: "3:"
+        paragraph: >-
+          Fit 2 diagonal braces (blue) in opposing directions between the 2nd
+          and 6th rungs. Ensure the
+
+          frames are vertical and level by checking with a spirit level and setting the adjustable legs as necessary. Fit the next pair of end frames and check the frame interlock clips are engaged.
+
+          Fit stabilisers.
+      - image: 850-assembly-4.jpg
+        paragraph: Fit 2 pairs of diagonal braces in opposing directions between the 6th
+          and 10th rungs and the 10th and 14th rungs. Locate a trapdoor deck on
+          the 12th rung.
+        heading: "4:"
+      - image: 850-assembly-5.jpg
+        heading: "5:"
+        paragraph: >-
+          Climb up the inside of the tower and from the protected position of
+          the trapdoor, fit horizontal
+
+          braces as guardrails (on both sides) to the 14th and 16th rungs (2 and 4 rungs above the platform in that order).
+      - image: 850-assembly-6.jpg
+        heading: "6:"
+        paragraph: >-
+          Fit a trapdoor deck on the 4th rung. Fix the horizontal braces (red)
+          as guardrails on the
+
+          6th and 8th rungs (2 and 4 rungs above the platform) on both sides of the tower.
+  - heading: Dismantling Procedure
+    body: >-
+      To take down the tower, reverse the building sequence. When removing
+      guardrail braces, unlock
+
+      the 4 claws furthest from the trapdoor and return immediately to the protected position within the trapdoor and then return immediately to the protected position within the trapdoor. You may then unlock the claws at the other ends of the guardrails to remove them from the tower.
+  - heading: Fitting Toeboards
+    body: >-
+      Lock yellow plastic toeboard clips over rung and deck claw as shown.
+      Position as (A) on right hand
+
+      deck claw. On other side of the working platform, position the clip as (B). Place 25mm thick toeboards into slots in toeboard clips as shown.
+
+
+
+
+      ![Lock yellow plastic toeboard clips over rung and deck claw as shown. Position as (A) on right hand deck claw. On other side of the working platform, position the clip as (B). Place 25mm thick toeboards into slots in toeboard clips as shown.](fitting-toeboards.jpg "Fitting Toeboards")
+  - heading: Stabilisers and Outriggers - Mobile Towers 3T method
+  - heading: Stabilisers
+    body: >-
+      Attach one stabiliser to each corner of the tower as shown. Ensure
+      stabiliser feet are equally spaced to form a square. SP10 and SP15
+      telescopic stabilisers must always be fully extended.
+
+
+
+      Position the lower clamp so that the lower arm is as close to the horizontal as possible. Adjust the
+
+      position of the top clamp to ensure the stabiliser foot is in firm contact with the ground. Ensure clamps are secure.
+
+
+
+      Stabilisers are used when the tower is to be moved occasionally, frequent movement will require
+
+      mobile outriggers.
+
+
+
+      When moving the tower, adjust the top clamps to lift the four stabiliser feet a maximum of 25mm
+
+      off the ground and then unlock the castor brakes. After moving, ensure all four stabiliser feet are repositioned in firm contact with the ground.
+  - heading: Stabiliser Dimensions
+    body: "![](stabiliser-outriggers.jpg)"
+  - heading: Outriggers
+    body: For information on mobile outriggers please consult your supplier.
 ---
