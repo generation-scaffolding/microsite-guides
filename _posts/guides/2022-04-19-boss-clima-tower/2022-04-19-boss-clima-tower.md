@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Boss Clima Tower
-coverImage: /assets/images/uploads/clima-tower.png
+coverImage: clima-tower.png
 sections:
   - heading: Introduction
     body: >-
@@ -34,7 +34,7 @@ sections:
 
       the use of mobile access and working towers, consult the PASMA operators‘ code of practice.
     imageSteps:
-      - image: /assets/images/uploads/british-standards.jpg
+      - image: british-standards.jpg
         heading: Compliances
         paragraph: |-
           The BoSS Clima aluminum system has been tested and certified
