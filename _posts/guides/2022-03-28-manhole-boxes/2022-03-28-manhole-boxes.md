@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Manhole Boxes
-coverImage: /assets/images/uploads/manhole-cover.png
+coverImage: manhole-cover.png
 sections:
   - heading: Introduction
     body: >-
@@ -52,45 +52,45 @@ sections:
     imageSteps:
       - heading: "1:"
         paragraph: Lay Panel Flat on ground with pockets facing upwards.
-        image: /assets/images/uploads/manhole-assembly-001.png
+        image: manhole-assembly-001.png
       - heading: "2:"
         paragraph: Assemble the struts.
-        image: /assets/images/uploads/manhole-assembly-002.jpg
+        image: manhole-assembly-002.jpg
       - heading: "3:"
         paragraph: Insert pins into designated holes and secure with R Clips.
-        image: /assets/images/uploads/manhole-assembly-003.jpg
+        image: manhole-assembly-003.jpg
       - heading: "4:"
         paragraph: Insert the struts into the pockets and lock in place with Pins and
           Clips.
-        image: /assets/images/uploads/manhole-assembly-004.png
+        image: manhole-assembly-004.png
       - heading: "5:"
         paragraph: Lower the second panel, pockets facing downwards onto the upraised
           struts you have just installed and lock in place.
-        image: /assets/images/uploads/manhole-assembly-005.png
+        image: manhole-assembly-005.png
       - paragraph: Stand the Manhole Box upright on its cutting edges, by attaching
           chains to the downwards facing panel’s lifting points and turn the
           constructed Manhole Box from flat to upright.
         heading: "6:"
-        image: /assets/images/uploads/manhole-assembly-006.png
+        image: manhole-assembly-006.png
   - heading: Installation
     imageSteps:
       - heading: "1:"
         paragraph: Dig the trench
-        image: /assets/images/uploads/manhole-install-001.jpg
+        image: manhole-install-001.jpg
       - heading: "2:"
         paragraph: Lift the Manhole Box into the starter hole.
-        image: /assets/images/uploads/manhole-install-002.png
+        image: manhole-install-002.png
       - heading: "3:"
         paragraph: Push box at each corner in turn.
-        image: /assets/images/uploads/manhole-install-003.png
+        image: manhole-install-003.png
       - paragraph: Excavate beneath the panel and remove any excess material.
         heading: "4:"
-        image: /assets/images/uploads/manhole-install-004.png
+        image: manhole-install-004.png
       - paragraph: Push each corner in turn until the box reaches the limit. Install
           edge protection and ladder access. Enter excavation once safety is
           declared.
         heading: "5:"
-        image: /assets/images/uploads/manhole-install-005.png
+        image: manhole-install-005.png
   - heading: Adding a Top Box
     body: |-
       1. Fit the panel connectors to the top box
@@ -149,7 +149,7 @@ sections:
       * Seek advice if you are in doubt.
   - heading: Ancillaries
     body: >-
-      |![](/assets/images/uploads/manhole-edge-protection.jpg)|![](/assets/images/uploads/manhole-shutters.jpg)|![](/assets/images/uploads/manhole-ladder-access.jpg)|
+      |![](manhole-edge-protection.jpg)|![](manhole-shutters.jpg)|![](manhole-ladder-access.jpg)|
 
 
       <table><thead><tr><th>Backhoe Manhole Box</th><th colspan="2">2.5m</th><th colspan="2">3.0m</th></tr></thead><tbody><tr><td></td><td>Base</td><td>Top</td><td>Base</td><td>Top</td></tr><tr><td>Panel Length (mm)</td><td>2500</td><td>2500</td><td>3000</td><td>3000</td></tr><tr><td>Panel Height (mm)</td><td>2000</td><td>1000</td><td>2000</td><td>1000</td></tr><tr><td>Panel Thickness (mm)</td><td>60</td><td>60</td><td>60</td><td>60</td></tr><tr><td>Weight (kg)</td><td>875</td><td>460</td><td>975</td><td>508</td></tr><tr><td>Distance Between Struts (mm)</td><td>2200</td><td>2200</td><td>2700</td><td>2200</td></tr><tr><td>Clearance Below Strut (mm)</td><td>1200</td><td>-</td><td>1200</td><td>-</td></tr><tr><td>To Suit Ring Size (mm)</td><td colspan="2">1050/1200/1350</td><td colspan="2">1350/1500/1800</td></tr><tr><td>Standard Working Load</td><td>20kn/m2</td><td>20kn/m2</td><td>20kn/m2</td><td>20kn/m2</td></tr></tbody></table>
