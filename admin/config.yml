@@ -7,7 +7,7 @@ collections:
   - name: 'guide'
     label: 'Guide'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    folder: '_posts/'
+    folder: '_posts/guides/'
     path: '{{slug}}/{{slug}}'
     media_folder: ''
     public_folder: ''
