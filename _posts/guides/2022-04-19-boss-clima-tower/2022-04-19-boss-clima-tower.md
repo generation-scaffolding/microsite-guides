@@ -151,16 +151,14 @@ sections:
   - heading: Diagram
     body: "![](clima-tower.jpg)"
   - heading: Quantity Schedule - 1450 Width Towers
-    body: >-
-      ![](schedule-1-copy.png)
+    body: >+
+      ![](schedule-2-copy.png)
 
 
       IMPORTANT: Please ensure you also read the other Quantity Schedules
 
       *If you are unable to position the working platform easily from the ground, you may heighten. Requires an additional fixed platform for this tower weight
 
-
-      ![](schedule-2-copy.png)
   - heading: Number Of Working Platforms Allowed
     body: >-
       The maximum safe working load (the combined weight of the users, tools and
